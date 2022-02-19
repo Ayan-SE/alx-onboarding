@@ -1,0 +1,9 @@
+Start
+Input i
+Initialize variable sum = 0
+For: 
+   Initialize variable  sum = 0
+   Compute sum = sum + (i*i)
+   n increment by 1
+Print sum
+End
